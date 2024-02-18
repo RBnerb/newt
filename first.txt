@@ -1,1 +1,2 @@
-1st File
+This edit will create conflict.
+1st File.
